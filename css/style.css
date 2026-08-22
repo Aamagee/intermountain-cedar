@@ -164,6 +164,8 @@ section { padding: 84px 0; }
   padding: 4px 0;
 }
 .main-nav a:hover, .main-nav a.active { color: var(--ink); }
+.main-nav a.btn { color: #fff; }
+.main-nav a.btn-ghost, .main-nav a.btn-ghost-light { color: inherit; }
 .main-nav a.active::after {
   content: "";
   position: absolute;
