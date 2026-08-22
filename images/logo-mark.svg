@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Nephi Trunnell Homes icon">
+  <circle cx="32" cy="32" r="28" fill="#f7f5f1" stroke="#3d4a37" stroke-width="2"/>
+  <path d="M32 14 L52 46 L12 46 Z" fill="#a1552e"/>
+  <path d="M32 14 L32 46" stroke="#f7f5f1" stroke-width="1.6"/>
+  <path d="M20 32 L44 32" stroke="#f7f5f1" stroke-width="1.6"/>
+  <rect x="10" y="48" width="44" height="5" rx="2" fill="#2c3628"/>
+</svg>

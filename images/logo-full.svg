@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" width="560" height="120" role="img" aria-label="Nephi Trunnell Homes logo">
+  <circle cx="58" cy="60" r="46" fill="#f7f5f1" stroke="#3d4a37" stroke-width="2.5"/>
+  <path d="M58 30 L86 74 L30 74 Z" fill="#a1552e"/>
+  <path d="M58 30 L58 74" stroke="#f7f5f1" stroke-width="2.4"/>
+  <path d="M42 54 L74 54" stroke="#f7f5f1" stroke-width="2.4"/>
+  <rect x="26" y="78" width="64" height="7" rx="2.5" fill="#2c3628"/>
+  <text x="140" y="68" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="600" fill="#211f1c">Intermountain <tspan fill="#a1552e">Cedar</tspan></text>
+  <text x="141" y="94" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2" fill="#5c584f">GENERAL CONTRACTOR &#8226; UTAH</text>
+</svg>
